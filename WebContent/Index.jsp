@@ -12,6 +12,10 @@
 		<li>git config-git 환경설정</li> 
 		<li>나도 li추가</li>asdasdasdasdasdasdadasd
 	</ul>
+	<h2>또 다른 제목</h2>
+	<ul>
+		<li>ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</li>
+	</ul>
 	
 </body>
 </html>
