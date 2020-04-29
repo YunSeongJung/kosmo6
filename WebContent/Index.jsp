@@ -7,6 +7,9 @@
 <title>인덱스</title>
 </head>
 <body>
-
+	<ul>
+		<li>git init 로컬</li>
+		<li>git config 환경설정</li>
+	</ul>
 </body>
 </html>
